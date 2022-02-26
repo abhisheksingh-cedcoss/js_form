@@ -1,0 +1,15 @@
+#display{
+    height: 100%;
+    width: 300px;
+    margin: 100px 400px;
+    background-color: black;
+
+    
+}
+h1{
+    color: white;
+}
+
+button{
+    background-color: green;
+}
