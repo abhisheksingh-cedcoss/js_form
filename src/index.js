@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 function display(){
     var tab = '';
-    tab += '<h1>Register New Account</h1>'
+    tab += '<h2>Register New Account</h2>'
     tab += '<input type= "text" id="name" placeholder ="  Name">'
     tab += '<input type= "text" id="lname" placeholder =" Last Name">'
     tab += '<input type= "text" id="fname" placeholder ="  Name">'
